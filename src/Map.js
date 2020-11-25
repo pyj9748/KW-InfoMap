@@ -123,7 +123,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로 20</div>' +
-                '                <div class="jibun ellipsis">(우) 01897 (지번) 월계동 404-21</div>' +
+                '                <div class="jibun ellipsis">대학본부, 건축학과, 건축공학과</div>' +
                 '                <div><a href="pages/화도관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/17563675" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -145,7 +145,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로 20</div>' +
-                '                <div class="jibun ellipsis">(우) 01897 (지번) 월계동 447-1</div>' +
+                '                <div class="jibun ellipsis">공과대학, 전자정보공과대학</div>' +
                 '                <div><a href="pages/비마관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/17561911" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -162,11 +162,11 @@ function kwplace(kwpositions) {
                 '        </div>' +
                 '        <div class="body">' +
                 '            <div class="img">' +
-                '                <img src="https://www.kw.ac.kr/ko/img/tour01_07.jpg" width="110" height="90">' +
+                '                <img src="https://www.kw.ac.kr/ko/img/tour01_27.jpg" width="110" height="90">' +
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로 20</div>' +
-                '                <div class="jibun ellipsis">(우) 01897 (지번) 월계동 447-1</div>' +
+                '                <div class="jibun ellipsis">소프트웨어융합대학</div>' +
                 '                <div><a href="pages/새빛관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/715015774" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -187,7 +187,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로 21</div>' +
-                '                <div class="jibun ellipsis">(우)01890 (지번) 월계동 466</div>' +
+                '                <div class="jibun ellipsis">대학 강당</div>' +
                 '                <div><a href="pages/동해문화예술관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/17564275" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -208,7 +208,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로6길 31</div>' +
-                '                <div class="jibun ellipsis">(우) 01897 (지번) 월계동 447-5</div>' +
+                '                <div class="jibun ellipsis">자연과학대학</div>' +
                 '                <div><a href="pages/옥의관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/17567827" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -229,7 +229,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로 27-38</div>' +
-                '                <div class="jibun ellipsis">(우) 01891 (지번) 월계동 465-41</div>' +
+                '                <div class="jibun ellipsis">인문사회과학대학, 법과대학, 교육대학원</div>' +
                 '                <div><a href="pages/한울관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/17566581" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -250,7 +250,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로1길 60</div>' +
-                '                <div class="jibun ellipsis">(우) 01890 (지번) 월계동 505-2</div>' +
+                '                <div class="jibun ellipsis">경영학부, 로봇학부</div>' +
                 '                <div><a href="pages/누리관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/12721052" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -271,7 +271,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로 20</div>' +
-                '                <div class="jibun ellipsis">(우) 01897 (지번) 월계동 447-1</div>' +
+                '                <div class="jibun ellipsis">전자정보공과대학, 공과대학</div>' +
                 '                <div><a href="pages/참빛관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/27202326" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -292,7 +292,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로 20</div>' +
-                '                <div class="jibun ellipsis">(우) 01897 (지번) 월계동 447-1</div>' +
+                '                <div class="jibun ellipsis">지하 캠퍼스, 도서관, 학생 편의시설</div>' +
                 '                <div><a href="pages/80주년기념관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/823736351" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -313,7 +313,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로 20</div>' +
-                '                <div class="jibun ellipsis">(우) 01897 (지번) 월계동 447-41</div>' +
+                '                <div class="jibun ellipsis">학생활동 지원시설, 학생복지시설</div>' +
                 '                <div><a href="pages/복지관.html">안내 페이지</a></div>' +
                 '                <div><a href="https://place.map.kakao.com/17565051" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
@@ -334,7 +334,7 @@ function kwplace(kwpositions) {
                 '           </div>' +
                 '            <div class="desc">' +
                 '                <div class="ellipsis">서울 노원구 광운로 21</div>' +
-                '                <div class="jibun ellipsis">(우) 01890 (지번) 월계동 500-40</div>' +
+                '                <div class="jibun ellipsis">광운대 기숙사</div>' +
                 '                <div><a href="https://place.map.kakao.com/614748387" target="_blank" class="link">오시는 길</a></div>' +
                 '            </div>' +
                 '        </div>' +
@@ -380,41 +380,41 @@ function displayPlaces(places) {
     var listEl = document.getElementById('placesList');
 
     listEl.innerHTML = '';
-    for ( var i=0; i<places.length; i++ ) {
+    for (var i = 0; i < places.length; i++) {
 
         // 마커를 생성하고 지도에 표시합니다
         var marker = addMarker(new kakao.maps.LatLng(places[i].y, places[i].x));
         itemEl = getListItem(i, places[i]);
-        
+
         // 마커와 검색결과 항목을 클릭 했을 때
         // 장소정보를 표출하도록 클릭 이벤트를 등록합니다
-        kakao.maps.event.addListener(marker, 'click', function() {
+        kakao.maps.event.addListener(marker, 'click', function () {
             // 마커를 클릭하면 장소명이 인포윈도우에 표출됩니다
-            infowindow.setContent('<div style="padding:5px;font-size:12px;">' + place.place_name+'</div>');
+            infowindow.setContent('<div style="padding:5px;font-size:12px;">' + place.place_name + '</div>');
             infowindow.open(map, marker);
         });
-        (function(marker, title) {
-            kakao.maps.event.addListener(marker, 'mouseover', function() {
+        (function (marker, title) {
+            kakao.maps.event.addListener(marker, 'mouseover', function () {
                 displayInfowindow(marker, title);
             });
-    
-            kakao.maps.event.addListener(marker, 'mouseout', function() {
+
+            kakao.maps.event.addListener(marker, 'mouseout', function () {
                 infowindow.close();
             });
-    
-            itemEl.onmouseover =  function () {
+
+            itemEl.onmouseover = function () {
                 displayInfowindow(marker, title);
             };
-    
-            itemEl.onmouseout =  function () {
+
+            itemEl.onmouseout = function () {
                 infowindow.close();
             };
         })(marker, places[i].place_name);
-    listEl.appendChild(itemEl);// 여기서 
+        listEl.appendChild(itemEl);// 여기서
 
     }
 }
-//마우스 오버용 
+//마우스 오버용
 function displayInfowindow(marker, title) {
     var content = '<div style="padding:5px;z-index:1;">' + title + '</div>';
 
@@ -459,20 +459,20 @@ function displayPlaceInfo(place) {
 function getListItem(index, places) {
 
     var el = document.createElement('li'),
-    itemStr = '<span' + (index+1) + '"></span>' +
-                '<div class="info">' +
-                '   <h3>' +'이름:'+ places.place_name + '</h3>';
+        itemStr = '<span' + (index + 1) + '"></span>' +
+            '<div class="info">' +
+            '   <h3>' + '이름:' + places.place_name + '</h3>';
 
     if (places.address_name) {
-        itemStr += 
-                    '   <span>' + '주소:'+ places.address_name  + '</span>';
+        itemStr +=
+            '   <span>' + '주소:' + places.address_name + '</span>';
     } else {
-        
-        
+
+
     }
 
-      itemStr += ' <span>  ' +      '번호:'+   places.phone     + '</span>' +
-                '</div>';
+    itemStr += ' <span>  ' + '번호:' + places.phone + '</span>' +
+        '</div>';
 
     el.innerHTML = itemStr;
     el.className = 'item';
